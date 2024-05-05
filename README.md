@@ -11,6 +11,9 @@ Information Retrieval **Project** - *A.Y. 2023/24*
 
 *   **FEVER** - Thorne et al.
 
+## LIbrary 
+* PyTerrier - Latest Version 
+
 ## Abstract
 The identification of what is real or artificially created is undoubtedly a crucial
 issue in contemporary society. The advent of social media has accelerated the

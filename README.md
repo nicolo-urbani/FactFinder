@@ -4,8 +4,8 @@ Fact Finder - a Fact Search Engine
 Information Retrieval **Project** - *A.Y. 2023/24*
 
 **Team**:
-*   **Mattia Piazzalunga** - 851931
-*   **Nicolò Urbani** - 856213
+*  **Nicolò Urbani** 
+*  **Mattia Piazzalunga** 
 
 ## Benchmark Datasets:
 
